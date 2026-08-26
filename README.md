@@ -26,7 +26,6 @@ Passionate about crafting modern, scalable web interfaces with a strong focus on
 
 ### 💼 Portfolio
 
-Check out my featured projects, technical skills, and live demos:
-👉 **[View My Portfolio Live](https://portafolio-murex-gamma.vercel.app/)**
+👉 **[Check Out My Projects](https://portafolio-murex-gamma.vercel.app/)**
 
 ---
