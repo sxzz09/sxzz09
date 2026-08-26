@@ -1,6 +1,6 @@
 # Hi there! I'm Sebastián Rodríguez 👋
 
-**Computer Science Student (IUJO) & Junior Frontend Developer**
+**Computer Science Student at ([IUJO](https://webiujocatia.wordpress.com/)) & Junior Frontend Developer**
 
 Passionate about crafting modern, scalable web interfaces with a strong focus on user experience (UI/UX). I specialize in building digital products using the modern JavaScript ecosystem: **React**, **Next.js**, and **Tailwind CSS**.
 
@@ -24,7 +24,7 @@ Passionate about crafting modern, scalable web interfaces with a strong focus on
 
 ---
 
-### 🚀 Live Portfolio
+### 💼 Portfolio
 
 Check out my featured projects, technical skills, and live demos:
 👉 **[View My Portfolio Live](https://portafolio-murex-gamma.vercel.app/)**
