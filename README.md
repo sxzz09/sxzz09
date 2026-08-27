@@ -1,5 +1,3 @@
-# WEB DEVELOPER
-
 ### Junior Frontend & Web Developer building modern, fast, and high-performance digital products
 
 ---
