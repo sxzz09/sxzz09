@@ -7,7 +7,7 @@
 <td width="65%" align="left" valign="top">
 <h2><img src="https://cdn.simpleicons.org/codefactor/EF4444" height="18"/> Profile & Philosophy</h2>
 <p>
-I am a <b>Junior Web Developer</b> and <b>Computer Engineering</b> student at <b><a href="https://webiujocatia.wordpress.com/">Instituto Universitario Jesús Obrero (IUJO - Catia)</a></b>.
+I am a <b>Junior Web Developer</b> and <b>Computer Science</b> student at <b><a href="https://webiujocatia.wordpress.com/">Instituto Universitario Jesús Obrero (IUJO - Catia)</a></b>.
 </p>
 <p>
 I focus on crafting modern web experiences, modular code, and clean user interfaces. My primary target is creating scalable frontend structures integrated with smart AI-driven workflows.
