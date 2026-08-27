@@ -23,8 +23,8 @@ I focus on crafting modern web experiences, modular code, and clean user interfa
 <img src="https://cdn.simpleicons.org/react/EF4444" height="14"/> <b>Component Architecture</b>
 </td>
 <td>
-<img src="https://cdn.simpleicons.org/openai/EF4444" height="14"/> <b>AI Integration Focus</b><br>
-<img src="https://cdn.simpleicons.org/vassal/EF4444" height="14"/> <b>Agile Problem Solving</b><br>
+<img src="https://cdn.simpleicons.org/meta/EF4444" height="14"/> <b>AI Integration Focus</b><br>
+<img src="https://cdn.simpleicons.org/githubactions/EF4444" height="14"/> <b>Agile Problem Solving</b><br>
 <img src="https://cdn.simpleicons.org/git/EF4444" height="14"/> <b>Clean Version Control</b>
 </td>
 </tr>
