@@ -33,7 +33,7 @@ I focus on crafting modern web experiences, modular code, and clean user interfa
 </p>
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api?username=sxzz09&theme=dark&hide_border=true&bg_color=09090b&title_color=ef4444&text_color=a1a1aa&icon_color=ef4444" width="100%" alt="GitHub Stats" />
+<img src="https://media.tenor.com/e_RYs3YnVyIAAAAM/emperor-kyoichi.gif" alt="GitHub Stats" />
 </td>
 </tr>
 </table>
