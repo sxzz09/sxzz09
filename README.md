@@ -64,7 +64,7 @@ I focus on crafting modern web experiences, modular code, and clean user interfa
 <img src="https://img.shields.io/badge/Main_Tech-Next.js_%7C_React_%7C_Tailwind-09090b?style=for-the-badge&logo=react&logoColor=EF4444" alt="Tech"/>
 </td>
 <td width="50%" align="center" valign="top">
-<h2><img src="https://cdn.simpleicons.org/linktree/EF4444" height="18"/> Connect With Me</h2>
+<h2><img src="https://cdn.simpleicons.org/linktree/EF4444" height="18"/> Contact Me</h2>
 <br>
 <a href="https://github.com/sxzz09" target="_blank">
   <img src="https://cdn.simpleicons.org/github/EF4444" height="32" alt="GitHub"/>
@@ -84,5 +84,5 @@ I focus on crafting modern web experiences, modular code, and clean user interfa
 ---
 
 <div align="center">
-  <sub><img src="https://cdn.simpleicons.org/git/EF4444" height="11"/> Sebastián — Portfolio & Profile</sub>
+  <sub><img src="https://cdn.simpleicons.org/git/EF4444" height="11"/> Sebastián — 2026</sub>
 </div>
