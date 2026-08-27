@@ -42,7 +42,7 @@ I focus on crafting modern web experiences, modular code, and clean user interfa
 
 ---
 
-## <img src="https://cdn.simpleicons.org/cpu/EF4444" height="18"/> Tech Stack & Tools
+## <img src="https://cdn.simpleicons.org/stackshare/EF4444" height="18"/> Tech Stack & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs" height="42" />
