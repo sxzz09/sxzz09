@@ -55,16 +55,16 @@ I focus on crafting modern web experiences, modular code, and clean user interfa
 <table border="0">
 <tr>
 <td width="50%" align="center" valign="top">
-<h2><img src="https://cdn.simpleicons.org/target/EF4444" height="18"/> Core Focus</h2>
+<h2><img src="https://cdn.simpleicons.org/blueprint/EF4444" height="18"/> Core Focus</h2>
 <br>
 <img src="https://img.shields.io/badge/Current_Role-Junior_Web_Developer-09090b?style=for-the-badge&logo=nextdotjs&logoColor=EF4444" alt="Role"/>
 <br><br>
-<img src="https://img.shields.io/badge/Education-Computer_Engineering_Student-09090b?style=for-the-badge&logo=education=&logoColor=EF4444" alt="Education"/>
+<img src="https://img.shields.io/badge/Education-Computer_Engineering-09090b?style=for-the-badge&logo=academic-pages&logoColor=EF4444" alt="Education"/>
 <br><br>
 <img src="https://img.shields.io/badge/Main_Tech-Next.js_%7C_React_%7C_Tailwind-09090b?style=for-the-badge&logo=react&logoColor=EF4444" alt="Tech"/>
 </td>
 <td width="50%" align="center" valign="top">
-<h2><img src="https://cdn.simpleicons.org/connectwise/EF4444" height="18"/> Connect With Me</h2>
+<h2><img src="https://cdn.simpleicons.org/linktree/EF4444" height="18"/> Connect With Me</h2>
 <br>
 <a href="https://github.com/sxzz09" target="_blank">
   <img src="https://cdn.simpleicons.org/github/EF4444" height="32" alt="GitHub"/>
