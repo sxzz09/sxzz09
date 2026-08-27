@@ -55,9 +55,9 @@ I focus on crafting modern web experiences, modular code, and clean user interfa
 <div align="center">
   <h2><img src="https://cdn.simpleicons.org/blueprint/EF4444" height="18"/> Core Focus</h2>
   <br>
-  <img src="https://img.shields.io/badge/Current_Role-Junior_Web_Developer-09090b?style=for-the-badge&logo=nextdotjs&logoColor=EF4444" alt="Role"/>
-  <br><br>
   <img src="https://img.shields.io/badge/Education-Computer_Engineering-09090b?style=for-the-badge&logo=googleacademic&logoColor=EF4444" alt="Education"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Current_Role-Junior_Web_Developer-09090b?style=for-the-badge&logo=nextdotjs&logoColor=EF4444" alt="Role"/>
   <br><br>
   <img src="https://img.shields.io/badge/Main_Tech-Next.js_%7C_React_%7C_Tailwind-09090b?style=for-the-badge&logo=react&logoColor=EF4444" alt="Tech"/>
   <br><br>
@@ -67,6 +67,9 @@ I focus on crafting modern web experiences, modular code, and clean user interfa
 </div>
 
 ---
+
+
+
 
 <div align="center">
   <sub><img src="https://cdn.simpleicons.org/git/EF4444" height="11"/> Sebastián — 2026</sub>
