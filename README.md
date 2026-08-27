@@ -1,114 +1,82 @@
-<div align="center">
+# WEB DEVELOPER
 
-# SEBASTIÁN
-### Junior Web Developer | Computer Engineering Student
-
-<p align="center">
-  <i>Building modern, responsive, and performance-driven web platforms with artificial intelligence integration.</i>
-</p>
-
-</div>
+### Junior Frontend & Web Developer building modern, fast, and high-performance digital products
 
 ---
 
-<table border="0" width="100%">
+<table border="0">
 <tr>
-<td width="58%" align="left" valign="top">
-
-<h2><img src="https://cdn.simpleicons.org/blueprint/white" height="18"/> Engineering Profile</h2>
-
+<td width="65%" align="left" valign="top">
+<h2><img src="https://cdn.simpleicons.org/codefactor/EF4444" height="18"/> Profile & Philosophy</h2>
 <p>
-I am a <b>Junior Web Developer</b> studying <b>Computer Engineering</b> at <b><a href="https://webiujocatia.wordpress.com/">Instituto Universitario Jesús Obrero (IUJO - Catia)</a></b>.
+I am a <b>Junior Web Developer</b> and <b>Computer Engineering</b> student at <b><a href="https://webiujocatia.wordpress.com/">Instituto Universitario Jesús Obrero (IUJO - Catia)</a></b>.
 </p>
-
 <p>
-My focus centers on developing full-featured front-end applications and web architectures using modern frameworks like <b>Next.js</b>, <b>React</b>, and <b>Tailwind CSS</b>, with an emphasis on incorporating <b>Artificial Intelligence APIs and workflows</b>.
+I focus on crafting modern web experiences, modular code, and clean user interfaces. My primary target is creating scalable frontend structures integrated with smart AI-driven workflows.
 </p>
-
-<p>
-I prioritize structure, clean visual hierarchy, and maintainable software fundamentals:
-</p>
-
-<table border="0" width="100%">
+<br>
+<table border="0">
 <tr>
 <td>
-<img src="https://cdn.simpleicons.org/blueprint/white" height="14"/> <b>Component Modularization</b><br>
-<img src="https://cdn.simpleicons.org/speedtest/white" height="14"/> <b>Performance Optimization</b><br>
-<img src="https://cdn.simpleicons.org/abstract/white" height="14"/> <b>Responsive Interface Architecture</b>
+<img src="https://cdn.simpleicons.org/nextdotjs/EF4444" height="14"/> <b>Modern Frontend</b><br>
+<img src="https://cdn.simpleicons.org/tailwindcss/EF4444" height="14"/> <b>Responsive UI/UX</b><br>
+<img src="https://cdn.simpleicons.org/react/EF4444" height="14"/> <b>Component Architecture</b>
 </td>
 <td>
-<img src="https://cdn.simpleicons.org/gitbook/white" height="14"/> <b>Clean Code Best Practices</b><br>
-<img src="https://cdn.simpleicons.org/probot/white" height="14"/> <b>AI Model Integrations</b><br>
-<img src="https://cdn.simpleicons.org/vercel/white" height="14"/> <b>Modern Deployment Pipelines</b>
+<img src="https://cdn.simpleicons.org/openai/EF4444" height="14"/> <b>AI Integration Focus</b><br>
+<img src="https://cdn.simpleicons.org/vassal/EF4444" height="14"/> <b>Agile Problem Solving</b><br>
+<img src="https://cdn.simpleicons.org/git/EF4444" height="14"/> <b>Clean Version Control</b>
 </td>
 </tr>
 </table>
-
+<br>
 <p>
-<i>"Focused on building maintainable software that scales smoothly and provides real value."</i>
+<i>"Focused on visual balance, clean hierarchy, and solving complex problems with straightforward software solutions."</i>
 </p>
-
 </td>
-<td width="42%" align="center" valign="middle">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-</div>
-
+<td width="35%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api?username=sxzz09&theme=dark&hide_border=true&bg_color=09090b&title_color=ef4444&text_color=a1a1aa&icon_color=ef4444" width="100%" alt="GitHub Stats" />
 </td>
 </tr>
 </table>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/stackshare/white" height="18"/> Tech Stack & Tools
+## <img src="https://cdn.simpleicons.org/cpu/EF4444" height="18"/> Tech Stack & Tools
 
 <div align="center">
-
-<b>Frontend Core</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" height="42" alt="Frontend Technologies"/>
-
-<br/><br/>
-
-<b>Tools & Workflow</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,npm" height="42" alt="Development Tools"/>
-
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs" height="42" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" height="42" />
 </div>
 
 ---
 
-<table border="0" width="100%">
+<table border="0">
 <tr>
-<td width="50%" align="center" valign="middle">
-
-<h2><img src="https://cdn.simpleicons.org/githubactions/white" height="18"/> Current Status</h2>
-
+<td width="50%" align="center" valign="top">
+<h2><img src="https://cdn.simpleicons.org/target/EF4444" height="18"/> Core Focus</h2>
 <br>
-<img src="https://img.shields.io/badge/Focus-Frontend_&_AI_Integration-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Focus"/>
+<img src="https://img.shields.io/badge/Current_Role-Junior_Web_Developer-09090b?style=for-the-badge&logo=nextdotjs&logoColor=EF4444" alt="Role"/>
 <br><br>
-<img src="https://img.shields.io/badge/Education-Computer_Engineering_Student-0d1117?style=for-the-badge&logo=react&logoColor=white" alt="Education"/>
+<img src="https://img.shields.io/badge/Education-Computer_Engineering_Student-09090b?style=for-the-badge&logo=education=&logoColor=EF4444" alt="Education"/>
 <br><br>
-<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-0d1117?style=for-the-badge&logo=githubactions&logoColor=white" alt="Status"/>
-
+<img src="https://img.shields.io/badge/Main_Tech-Next.js_%7C_React_%7C_Tailwind-09090b?style=for-the-badge&logo=react&logoColor=EF4444" alt="Tech"/>
 </td>
-<td width="50%" align="center" valign="middle">
-
-<h2><img src="https://cdn.simpleicons.org/linktree/white" height="18"/> Connect with me</h2>
-
+<td width="50%" align="center" valign="top">
+<h2><img src="https://cdn.simpleicons.org/connectwise/EF4444" height="18"/> Connect With Me</h2>
 <br>
-
-<a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
+<a href="https://github.com/sxzz09" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/EF4444" height="32" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;
-<a href="mailto:tu-email@dominio.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="36" alt="Gmail"/>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:tuemail@ejemplo.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/gmail/EF4444" height="32" alt="Email"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub"/>
-</a>
-
+<br><br>
+<p>
+  <sub>Open for entry-level roles, frontend projects, and technical collaborations.</sub>
+</p>
 </td>
 </tr>
 </table>
@@ -116,11 +84,5 @@ I prioritize structure, clean visual hierarchy, and maintainable software fundam
 ---
 
 <div align="center">
-
-### Open to technological collaboration, junior engineering roles, and innovative projects.
-
----
-
-<sub><img src="https://cdn.simpleicons.org/git/white" height="12"/> Minimalist Engineering Profile</sub>
-
+  <sub><img src="https://cdn.simpleicons.org/git/EF4444" height="11"/> Sebastián — Portfolio & Profile</sub>
 </div>
